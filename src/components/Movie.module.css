@@ -18,3 +18,8 @@
   margin: 0;
   font-size: 1rem;
 }
+
+.btn1 {
+  background-color: rgb(163, 145, 245);
+  float: inline-end;
+}
